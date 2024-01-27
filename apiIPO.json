@@ -1,45 +1,104 @@
 {
- "data":
-[
-    {
-        "company_name": "Nova Agritech Limited",
-        "security_type": "EQ",
-        "issue_price": "10.00",
-        "symbol": "NOVAAGRI",
-        "issue_start_date": "2024-01-23",
-        "issue_end_date": "2024-01-25",
-        "price_range": "39-41",
-        "date_of_listing": "2024-01-23"
-    },
-    {
-        "company_name": "EPACK Durable Limited",
-        "security_type": "EQ",
-        "issue_price": "10.00",
-        "symbol": "EPACk",
-        "issue_start_date": "2024-01-23",
-        "issue_end_date": "2024-01-25",
-        "price_range": "39-41",
-        "date_of_listing": "2024-01-23"
-    },
-    {
-        "company_name": "Nova Agritech Limited",
-        "security_type": "EQ",
-        "issue_price": "10.00",
-        "symbol": "NOVAAGRI",
-        "issue_start_date": "2024-01-23",
-        "issue_end_date": "2024-01-25",
-        "price_range": "39-41",
-        "date_of_listing": "2024-01-23"
-    },
-    {
-        "company_name": "Nova Agritech Limited",
-        "security_type": "EQ",
-        "issue_price": "10.00",
-        "symbol": "NOVAAGRI",
-        "issue_start_date": "2024-01-23",
-        "issue_end_date": "2024-01-25",
-        "price_range": "39-41",
-        "date_of_listing": "2024-01-23"
-    }
-]
+    "data": [
+        {
+            "company_name": "Nova Agritech Limited",
+            "security_type": "EQ",
+            "issue_price": "10.00",
+            "symbol": "NOVAAGRI",
+            "issue_start_date": "2024-01-23",
+            "issue_end_date": "2024-01-25",
+            "price_range": "39-41",
+            "date_of_listing": "2024-01-23"
+        },
+        {
+            "company_name": "ABC Corporation",
+            "security_type": "EQ",
+            "issue_price": "15.50",
+            "symbol": "ABCCORP",
+            "issue_start_date": "2024-02-05",
+            "issue_end_date": "2024-02-07",
+            "price_range": "45-48",
+            "date_of_listing": "2024-02-10"
+        },
+        {
+            "company_name": "XYZ Industries Inc.",
+            "security_type": "EQ",
+            "issue_price": "20.25",
+            "symbol": "XYZIND",
+            "issue_start_date": "2024-03-12",
+            "issue_end_date": "2024-03-15",
+            "price_range": "55-60",
+            "date_of_listing": "2024-03-18"
+        },
+        {
+            "company_name": "Tech Innovators Ltd.",
+            "security_type": "EQ",
+            "issue_price": "25.00",
+            "symbol": "TECHINNO",
+            "issue_start_date": "2024-04-20",
+            "issue_end_date": "2024-04-22",
+            "price_range": "65-70",
+            "date_of_listing": "2024-04-25"
+        },
+        {
+            "company_name": "Green Energy Co.",
+            "security_type": "EQ",
+            "issue_price": "18.75",
+            "symbol": "GREENEN",
+            "issue_start_date": "2024-05-14",
+            "issue_end_date": "2024-05-16",
+            "price_range": "50-55",
+            "date_of_listing": "2024-05-19"
+        },
+        {
+            "company_name": "Global Pharma Solutions",
+            "security_type": "EQ",
+            "issue_price": "30.50",
+            "symbol": "PHARMAGL",
+            "issue_start_date": "2024-06-08",
+            "issue_end_date": "2024-06-10",
+            "price_range": "75-80",
+            "date_of_listing": "2024-06-13"
+        },
+        {
+            "company_name": "Renewable Power Ltd.",
+            "security_type": "EQ",
+            "issue_price": "22.75",
+            "symbol": "RENEWPOWER",
+            "issue_start_date": "2024-07-02",
+            "issue_end_date": "2024-07-04",
+            "price_range": "60-65",
+            "date_of_listing": "2024-07-07"
+        },
+        {
+            "company_name": "Smart Technologies Inc.",
+            "security_type": "EQ",
+            "issue_price": "28.00",
+            "symbol": "SMARTTECH",
+            "issue_start_date": "2024-08-15",
+            "issue_end_date": "2024-08-17",
+            "price_range": "70-75",
+            "date_of_listing": "2024-08-20"
+        },
+        {
+            "company_name": "Fashion Forward Group",
+            "security_type": "EQ",
+            "issue_price": "35.25",
+            "symbol": "FASHIONFWD",
+            "issue_start_date": "2024-09-23",
+            "issue_end_date": "2024-09-25",
+            "price_range": "85-90",
+            "date_of_listing": "2024-09-28"
+        },
+        {
+            "company_name": "BioTech Innovations Ltd.",
+            "security_type": "EQ",
+            "issue_price": "26.50",
+            "symbol": "BIOTECHINN",
+            "issue_start_date": "2024-10-12",
+            "issue_end_date": "2024-10-15",
+            "price_range": "68-72",
+            "date_of_listing": "2024-10-18"
+        }
+    ]
 }
